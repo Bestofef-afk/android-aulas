@@ -13,6 +13,15 @@ export default function App() {
       <View style={styles.area3}>
         <Text style={styles.title}>Area3</Text>
       </View>
+      <View style={styles.area4}>
+        <Text style={styles.title}>Area4</Text>
+      </View>
+      <View style={styles.area5}>
+        <Text style={styles.title}>Area5</Text>
+      </View>
+      <View style={styles.area6}>
+        <Text style={styles.title}>Area6</Text>
+      </View>
     </View>
   );
 }
